@@ -4,7 +4,7 @@ Arkadaşlar merhaba 👋
 Bu organizasyondaki repolar Youtube Live Coding ile kodladığım Kargo Takip projesine aittir. Videolara aşağıdaki linkten ulaşabilirsiniz. Repoyu Yıldızlamayı, videoları beğenip paylaşmayı unutmayın 🤗
 
 ## Videolar
-1. <a href="https://www.youtube.com/live/Lc3EzrXlJ5g?si=Hz40uVdjkWfsDhC9">.NET ve Angular ile Kargo Takip Projesi 1 - Projelerini oluşturalım, kargo kaydedelim</a>
+1. <a href="https://www.youtube.com/live/Lc3EzrXlJ5g">.NET ve Angular ile Kargo Takip Projesi 1 - Projelerini oluşturalım, kargo kaydedelim</a>
 
 ## Backend
 - Dil: C#
