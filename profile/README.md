@@ -5,7 +5,7 @@ Bu organizasyondaki repolar Youtube Live Coding ile kodladığım Kargo Takip pr
 
 ## Uygulamanın canlı hali
 <b>Angular</b>: 
-<a href="https://ts.kargotakip.ecnorow.com/kargolar">Siteye gitmek için tıklayın</a>
+<a href="https://ts.kargotakip.ecnorow.com">Siteye gitmek için tıklayın</a>
 
 <b>.NET WebAPI</b>:
 <a href="https://kargotakip.webapi.ecnorow.com/scalar/v1">Siteye gitmek için tıklayın</a>
