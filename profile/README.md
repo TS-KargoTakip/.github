@@ -11,8 +11,9 @@ Bu organizasyondaki repolar Youtube Live Coding ile kodladığım Kargo Takip pr
 <a href="https://kargotakip.webapi.ecnorow.com/scalar/v1">Siteye gitmek için tıklayın</a>
 
 ## Videolar
-1. <a href="https://www.youtube.com/live/Lc3EzrXlJ5g">.NET ve Angular ile Kargo Takip Projesi 1 - Projelerini oluşturalım, kargo kaydedelim</a>
-2. <a href="https://www.youtube.com/live/OB8JlEH71JQ?si=logB1jufjEsFWcKi">.NET ve Angular ile Kargo Takip Projesi 2 - Kargo CRUD işlemlerini tamamlayalım</a>
+1. <a href="https://www.youtube.com/live/Lc3EzrXlJ5g">.NET 9 ve Angular 19 ile Kargo Takip Projesi 1 - Projelerini oluşturalım, kargo kaydedelim</a>
+2. <a href="https://www.youtube.com/live/OB8JlEH71JQ?si=logB1jufjEsFWcKi">.NET 9 ve Angular 19 ile Kargo Takip Projesi 2 - Kargo CRUD işlemlerini tamamlayalım</a>
+3. <a href="https://www.youtube.com/live/XR_p9Ivf0T4?si=zrlr-poWuCRqHW_3">.NET 9 ve Angular 19 ile Kargo Takip Projesi 3 - Kargo Update, GitHub CI/CD, Login</a>
 
 ## Backend
 - Dil: C#
@@ -40,7 +41,7 @@ Bu organizasyondaki repolar Youtube Live Coding ile kodladığım Kargo Takip pr
 - [x] Projeleri canlıya al
 
 ## 3. Ders yapılacaklar (01.03.2025 21:00)
-- [ ] Kargo update işlemi (Angular + .NET)
-- [ ] Angular Admin projesinde login işlemi
-- [ ] Kargo durum değiştirme (Angular + .NET)
-- [ ] CI/CD için GitHub actions yaz(canlıya almayı otomatikleştirme)
+- [X] Kargo update işlemi (Angular + .NET)
+- [X] Angular Admin projesinde login işlemi
+- [X] Kargo durum değiştirme (Angular + .NET)
+- [X] CI/CD için GitHub actions yaz(canlıya almayı otomatikleştirme)
