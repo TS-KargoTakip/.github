@@ -39,7 +39,7 @@ Bu organizasyondaki repolar Youtube Live Coding ile kodladığım Kargo Takip pr
 - [x] Kargoları silme işlemi (Angular + .NET)
 - [x] Projeleri canlıya al
 
-## 3. Ders yapılacaklar (22.02.2025 21:00)
+## 3. Ders yapılacaklar (01.03.2025 21:00)
 - [ ] Kargo update işlemi (Angular + .NET)
 - [ ] Angular Admin projesinde login işlemi
 - [ ] Kargo durum değiştirme (Angular + .NET)
